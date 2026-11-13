@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!dist/
+dist/*
+!dist/index.html
+!dist/app.js
+!dist/style.css
