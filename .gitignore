@@ -1,8 +1,11 @@
-*
-!.gitignore
-!README.md
-!dist/
-dist/*
-!dist/index.html
-!dist/app.js
-!dist/style.css
+# Only publish the production website and public repository metadata.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/dist/
+
+/dist/*
+!/dist/index.html
+!/dist/app.js
+!/dist/style.css

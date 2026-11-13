@@ -1,0 +1,2 @@
+# Include production assets in GitHub's language breakdown.
+dist/** -linguist-vendored -linguist-generated
